@@ -1,0 +1,68 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+} */
+
+@font-face {
+    font-family: Break-Bold;
+    src: url(./../fonts/break-bold.ttf);
+}
+
+@font-face {
+    font-family: Simplifica;
+    src: url(./../fonts/simplifica.ttf);
+}
+
+@font-face {
+    font-family: Uni-Sans;
+    src: url(./../fonts/uni-sans.otf);
+}
+
+body {
+    background-color: #628DBD;
+    color: #fff;
+}
+
+.title {
+    font-family: Break-Bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 100px;
+    margin: 0px;
+    padding: 20px 0 20px 0;
+}
+
+.ui-widget {
+    padding-bottom: 20px;
+}
+
+.top {
+    /* text-align: center; */
+    margin-bottom: 20px;
+}
+
+fieldset {
+    border: 0;
+}
+
+table {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+table tr th {
+    font-family: Uni-Sans;
+    text-transform: uppercase;
+    font-size: 26px;
+    text-align: center;
+    padding: 0 10px 40px 10px;
+}
+
+table tr td {
+    font-family: Simplifica;
+    font-size: 22px;
+    text-align: center;
+    padding-bottom: 12px;
+    letter-spacing: 1.2px;
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Adobtable Pets</title>
+        <link rel="stylesheet" href="./../src/stylesheets/style.css"/>
+        <link rel="stylesheet" href="./../src/stylesheets/jquery-ui.css"/>
+    </head>
+    
+    <body>
+        <h1 class="title">Catalogue</h1>
+        
+        <section class="top">
+            <div class="ui-widget">
+                <input type="text" id="searchTerm" onkeypress="if (event.keyCode == 13) { document.getElementById('search').click() }" placeholder="Search..."/>
+                <button id="search">Search</button>
+            </div>
+            
+            <fieldset>
+                <input type="checkbox" id="dog" value="dog"><label for="dog">Dog</label>
+                <input type="checkbox" id="cat" value="cat"><label for="cat">Cat</label>
+            </fieldset>
+
+            <fieldset>
+                <input type="checkbox" id="male" value="male"><label for="male">Male</label>
+                <input type="checkbox" id="female" value="female"><label for="female">Female</label>
+            </fieldset>
+
+            <fieldset>
+                <select id="breed" name="breed"></select>
+            </fieldset>
+
+            <fieldset>
+                <select id="color" name="color"></select>
+            </fieldset>
+        </section>
+
+        <table id="record"></table>
+
+        <script>
+            window.$ = window.jQuery = require('jquery');
+            require('jquery-ui-dist/jquery-ui');
+        </script>
+
+        <script>
+            require('./../src/scripts/renderer.js');
+            require('./pets.json');
+        </script>
+    </body>
+</html>

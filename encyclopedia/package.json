@@ -1,0 +1,20 @@
+{
+    "name": "encyclopedia",
+    "version": "0.1.0",
+    "description": "Google Project - James Blackledge",
+    "main": "./app/main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "",
+    "author": "James Blackledge",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^4.0.7"
+    },
+    "dependencies": {
+        "jquery": "^3.3.1",
+        "jquery-ui": "^1.12.1",
+        "jquery-ui-dist": "^1.12.1"
+    }
+}

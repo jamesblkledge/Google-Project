@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/46141450/create-li-from-loop-through-array-and-display-to-html-as-a-list
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+https://codeburst.io/build-a-todo-app-with-electron-d6c61f58b55a
+https://github.com/electron/electron-quick-start
+https://gist.github.com/jherax/f11d669ba286f21b7a2dcff69621eb72
