@@ -2,20 +2,25 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Adobtable Pets</title>
+        <title>Adobtable Pets Catalogue</title>
+        <!--Stylesheet For App-->
         <link rel="stylesheet" href="./../src/stylesheets/style.css"/>
+        <!--jQuery-UI Stylesheet For Autocomplete-->
         <link rel="stylesheet" href="./../src/stylesheets/jquery-ui.css"/>
     </head>
     
-    <body>
+    <body style="-webkit-user-select: none">
+        <!--Title-->
         <h1 class="title">Catalogue</h1>
         
         <section class="top">
+            <!--Search Box-->
             <div class="ui-widget">
-                <input type="text" id="searchTerm" onkeypress="if (event.keyCode == 13) { document.getElementById('search').click() }" placeholder="Search Animal Name"/>
+                <input type="text" id="searchTerm" onkeypress="if (event.keyCode == 13) { document.getElementById('search').click() }" placeholder="Search Animal Catalogue"/>
                 <button id="search">Search</button>
             </div>
             
+            <!--Table Containing All Filters-->
             <table id="checkTab">
                 <thead>
                     <tr>
@@ -48,21 +53,22 @@
                     </tr>
                 </tbody>
             </table>
-
+            
+            <!--Show All Content Button-->
             <hr/><button id="all">Show All</button><hr/>
 
         </section>
         
+        <!--Table In Which JSON Data Is Rendered To-->
         <table id="record"></table>
 
         <script>
+            //defining jQuery variable for window
             window.$ = window.jQuery = require('jquery');
+            //include the following jQuery-UI libraries
             require('jquery-ui-dist/jquery-ui');
-        </script>
-
-        <script>
+            //include main renderer.js file
             require('./../src/scripts/renderer.js');
-            require('./pets.json');
         </script>
     </body>
 </html>

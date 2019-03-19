@@ -1,6 +1,6 @@
 {
     "name": "encyclopedia",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "Google Project - James Blackledge",
     "main": "./app/main.js",
     "scripts": {
