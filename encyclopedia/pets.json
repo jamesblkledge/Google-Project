@@ -1,16 +1,16 @@
 [
     {
         "Animal_ID": "A513771",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "Golden Retriever",
         "Animal_Color": "Black / White",
         "Address": "22000 238TH PL SE"
     },
     {
         "Animal_ID": "A513743",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Samoyed",
@@ -64,7 +64,7 @@
     },
     {
         "Animal_ID": "A515182",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Shiba Inu",
@@ -136,7 +136,7 @@
     },
     {
         "Animal_ID": "A516112",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Mediumhair",
@@ -154,16 +154,16 @@
     },
     {
         "Animal_ID": "A516107",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "American Wirehair",
         "Animal_Color": "Unknown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A515931",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pug",
@@ -181,7 +181,7 @@
     },
     {
         "Animal_ID": "A513763",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Labrador Retriever",
@@ -204,7 +204,7 @@
         "Animal_Gender": "Female",
         "Animal_Breed": "Maine Coon",
         "Animal_Color": "Unknown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516117",
@@ -226,7 +226,7 @@
     },
     {
         "Animal_ID": "A513067",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "German Shepherd",
@@ -235,7 +235,7 @@
     },
     {
         "Animal_ID": "A514744",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Longhair",
@@ -244,7 +244,7 @@
     },
     {
         "Animal_ID": "A515184",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Maine Coon",
@@ -262,7 +262,7 @@
     },
     {
         "Animal_ID": "A515141",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pomeranian",
@@ -289,25 +289,25 @@
     },
     {
         "Animal_ID": "A516022",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Labrador Retriever",
         "Animal_Color": "White / Unknown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A515928",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Miniature Poodle",
         "Animal_Color": "Black / Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A515251",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Pomeranian",
@@ -316,7 +316,7 @@
     },
     {
         "Animal_ID": "A513758",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Golden Retriever",
@@ -325,7 +325,7 @@
     },
     {
         "Animal_ID": "A513425",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Chihuahua - Long Haired",
@@ -397,9 +397,9 @@
     },
     {
         "Animal_ID": "A516440",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "Rough Collie",
         "Animal_Color": "Brown / White",
         "Address": "216TH ST AND ISSAQUAH HOBART RD"
@@ -415,7 +415,7 @@
     },
     {
         "Animal_ID": "A515178",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "German Shepherd",
@@ -433,7 +433,7 @@
     },
     {
         "Animal_ID": "A515179",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pit Bull",
@@ -460,7 +460,7 @@
     },
     {
         "Animal_ID": "A514742",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "American Pit Bull Terrier",
@@ -478,7 +478,7 @@
     },
     {
         "Animal_ID": "A514901",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Longhair",
@@ -487,7 +487,7 @@
     },
     {
         "Animal_ID": "A516057",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Shih Tzu",
@@ -550,7 +550,7 @@
     },
     {
         "Animal_ID": "A515570",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Toy Poodle",
@@ -559,18 +559,18 @@
     },
     {
         "Animal_ID": "A516138",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "Rottweiler",
         "Animal_Color": "Black / Brown",
         "Address": "1000 258TH AVE NE"
     },
     {
         "Animal_ID": "A514478",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "Australian Shepherd",
         "Animal_Color": "White / Black",
         "Address": "176TH AVE SE AND SE 295TH ST"
@@ -595,9 +595,9 @@
     },
     {
         "Animal_ID": "A513753",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "Toy Poodle",
         "Animal_Color": "Black",
         "Address": "1200 N 152ND ST"
@@ -613,7 +613,7 @@
     },
     {
         "Animal_ID": "A515799",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Brittany",
@@ -622,7 +622,7 @@
     },
     {
         "Animal_ID": "A515142",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pomeranian",
@@ -640,18 +640,18 @@
     },
     {
         "Animal_ID": "A515153",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Chihuahua - Smooth Coated",
         "Animal_Color": "White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A514727",
         "Animal_Name": "Sootie",
         "animal_type": "Cat",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "Domestic Mediumhair",
         "Animal_Color": "Unknown",
         "Address": "5700 200TH ST SW"
@@ -676,7 +676,7 @@
     },
     {
         "Animal_ID": "A515151",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "German Shepherd / Mix",
@@ -694,12 +694,12 @@
     },
     {
         "Animal_ID": "A513745",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Miniature Poodle",
         "Animal_Color": "White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A514667",
@@ -712,25 +712,25 @@
     },
     {
         "Animal_ID": "A515929",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Miniature Poodle",
         "Animal_Color": "Black / Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A514958",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Maine Coon",
         "Animal_Color": "Black / Brown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A513752",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Longhair",
@@ -753,11 +753,11 @@
         "Animal_Gender": "Female",
         "Animal_Breed": "Maine Coon",
         "Animal_Color": "Unknown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516056",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Miniature Schnauzer",
@@ -847,7 +847,7 @@
     },
     {
         "Animal_ID": "A517168",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -865,12 +865,12 @@
     },
     {
         "Animal_ID": "A516540",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Standard Schnauzer",
         "Animal_Color": "Unknown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516786",
@@ -883,7 +883,7 @@
     },
     {
         "Animal_ID": "A516691",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Pug",
@@ -901,12 +901,12 @@
     },
     {
         "Animal_ID": "A517164",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Brown / Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517301",
@@ -919,12 +919,12 @@
     },
     {
         "Animal_ID": "A517147",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Mediumhair",
         "Animal_Color": "Unknown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516692",
@@ -946,7 +946,7 @@
     },
     {
         "Animal_ID": "A517166",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Labrador Retriever",
@@ -1072,7 +1072,7 @@
     },
     {
         "Animal_ID": "A516374",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1086,7 +1086,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Org Tabby",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517000",
@@ -1108,7 +1108,7 @@
     },
     {
         "Animal_ID": "A517103",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1126,7 +1126,7 @@
     },
     {
         "Animal_ID": "A517022",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -1140,7 +1140,7 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Brn Tabby",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516386",
@@ -1149,11 +1149,11 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516739",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Bird",
         "Animal_Gender": "Female",
         "Animal_Breed": "Chicken",
@@ -1162,12 +1162,12 @@
     },
     {
         "Animal_ID": "A515789",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Blk Smoke",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A515112",
@@ -1176,11 +1176,11 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Rabbit Sh",
         "Animal_Color": "White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516796",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -1189,7 +1189,7 @@
     },
     {
         "Animal_ID": "A516009",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -1225,7 +1225,7 @@
     },
     {
         "Animal_ID": "A516106",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -1261,7 +1261,7 @@
     },
     {
         "Animal_ID": "A517309",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Border Collie / Mix",
@@ -1270,7 +1270,7 @@
     },
     {
         "Animal_ID": "A517052",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Longhair",
@@ -1297,7 +1297,7 @@
     },
     {
         "Animal_ID": "A516634",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -1315,7 +1315,7 @@
     },
     {
         "Animal_ID": "A516793",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -1324,7 +1324,7 @@
     },
     {
         "Animal_ID": "A517121",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Mediumhair / Siamese",
@@ -1338,7 +1338,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Black / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A514568",
@@ -1347,11 +1347,11 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Gray / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516523",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1374,11 +1374,11 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "White / Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517270",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Chow Chow / Akita",
@@ -1387,12 +1387,12 @@
     },
     {
         "Animal_ID": "A515790",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Black / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A473316",
@@ -1401,7 +1401,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Labrador Retriever / Mix",
         "Animal_Color": "Apricot",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A449967",
@@ -1414,7 +1414,7 @@
     },
     {
         "Animal_ID": "A517021",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -1432,7 +1432,7 @@
     },
     {
         "Animal_ID": "A517155",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Longhair",
@@ -1450,7 +1450,7 @@
     },
     {
         "Animal_ID": "A516868",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -1509,7 +1509,7 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "American Shorthair",
         "Animal_Color": "Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516892",
@@ -1518,7 +1518,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Labrador Retriever / Pit Bull",
         "Animal_Color": "Chocolate",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A513804",
@@ -1527,11 +1527,11 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Brn Tabby",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A515128",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1540,7 +1540,7 @@
     },
     {
         "Animal_ID": "A515533",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -1554,11 +1554,11 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Orange / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516759",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Mediumhair",
@@ -1572,11 +1572,11 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Pit Bull / Labrador Retriever",
         "Animal_Color": "Br Brindle / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516802",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1594,7 +1594,7 @@
     },
     {
         "Animal_ID": "A517060",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1612,16 +1612,16 @@
     },
     {
         "Animal_ID": "A509731",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Mediumhair",
         "Animal_Color": "Brn Tabby",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516632",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1630,7 +1630,7 @@
     },
     {
         "Animal_ID": "A517163",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Cocker Spaniel",
@@ -1671,11 +1671,11 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Black / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516791",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair / Siamese",
@@ -1707,11 +1707,11 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Longhair",
         "Animal_Color": "Dilute Tor",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517251",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Chihuahua - Smooth Coated",
@@ -1720,7 +1720,7 @@
     },
     {
         "Animal_ID": "A516623",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1729,7 +1729,7 @@
     },
     {
         "Animal_ID": "A517263",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1738,7 +1738,7 @@
     },
     {
         "Animal_ID": "A516689",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1747,7 +1747,7 @@
     },
     {
         "Animal_ID": "A516801",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Mediumhair",
@@ -1761,20 +1761,20 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A516135",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
-        "Animal_Gender": "",
+        "Animal_Gender": "Unknown",
         "Animal_Breed": "Domestic Longhair",
         "Animal_Color": "Black / Brown",
         "Address": "21ST AVESW & SW 356TH ST"
     },
     {
         "Animal_ID": "A517275",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pit Bull",
@@ -1783,7 +1783,7 @@
     },
     {
         "Animal_ID": "A517019",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -1797,7 +1797,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Gray Tabby",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A496205",
@@ -1810,7 +1810,7 @@
     },
     {
         "Animal_ID": "A514763",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Yorkshire Terrier",
@@ -1819,7 +1819,7 @@
     },
     {
         "Animal_ID": "A517125",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1842,7 +1842,7 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Gray",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A514476",
@@ -1855,7 +1855,7 @@
     },
     {
         "Animal_ID": "A517080",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Mediumhair",
@@ -1864,7 +1864,7 @@
     },
     {
         "Animal_ID": "A517332",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -1873,7 +1873,7 @@
     },
     {
         "Animal_ID": "A515889",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Dog",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Labrador Retriever",
@@ -1882,7 +1882,7 @@
     },
     {
         "Animal_ID": "A516124",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pomeranian",
@@ -1900,7 +1900,7 @@
     },
     {
         "Animal_ID": "A516742",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1909,7 +1909,7 @@
     },
     {
         "Animal_ID": "A516741",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -1918,7 +1918,7 @@
     },
     {
         "Animal_ID": "A517165",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Chow Chow",
@@ -1927,7 +1927,7 @@
     },
     {
         "Animal_ID": "A516798",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Longhair",
@@ -1954,7 +1954,7 @@
     },
     {
         "Animal_ID": "A517312",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Miniature Poodle / Mix",
@@ -1963,7 +1963,7 @@
     },
     {
         "Animal_ID": "A516784",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Longhair",
@@ -1972,7 +1972,7 @@
     },
     {
         "Animal_ID": "A517149",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1990,7 +1990,7 @@
     },
     {
         "Animal_ID": "A515150",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -1999,7 +1999,7 @@
     },
     {
         "Animal_ID": "A517053",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -2013,11 +2013,11 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Black / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517313",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Lhasa Apso / Mix",
@@ -2035,7 +2035,7 @@
     },
     {
         "Animal_ID": "A515130",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Mediumhair",
@@ -2044,7 +2044,7 @@
     },
     {
         "Animal_ID": "A515131",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dead Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Longhair",
@@ -2058,7 +2058,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Yorkshire Terrier / Mix",
         "Animal_Color": "Brown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A515025",
@@ -2085,7 +2085,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Pit Bull / Boxer",
         "Animal_Color": "Br Brindle / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A505004",
@@ -2098,7 +2098,7 @@
     },
     {
         "Animal_ID": "A516792",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -2107,7 +2107,7 @@
     },
     {
         "Animal_ID": "A517151",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Female",
         "Animal_Breed": "Papillon",
@@ -2121,7 +2121,7 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Calico",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A514690",
@@ -2130,11 +2130,11 @@
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Tortie",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517018",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -2152,7 +2152,7 @@
     },
     {
         "Animal_ID": "A516804",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -2166,11 +2166,11 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Mediumhair",
         "Animal_Color": "White / Gray",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517048",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -2179,7 +2179,7 @@
     },
     {
         "Animal_ID": "A516799",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair",
@@ -2215,7 +2215,7 @@
     },
     {
         "Animal_ID": "A516425",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Brussels Griffon",
@@ -2224,7 +2224,7 @@
     },
     {
         "Animal_ID": "A516738",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Bird",
         "Animal_Gender": "Male",
         "Animal_Breed": "Chicken",
@@ -2242,7 +2242,7 @@
     },
     {
         "Animal_ID": "A517326",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pit Bull / Mix",
@@ -2269,7 +2269,7 @@
     },
     {
         "Animal_ID": "A516459",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Mediumhair",
@@ -2278,7 +2278,7 @@
     },
     {
         "Animal_ID": "A517099",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -2287,7 +2287,7 @@
     },
     {
         "Animal_ID": "A516494",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Chihuahua - Long Haired",
@@ -2296,7 +2296,7 @@
     },
     {
         "Animal_ID": "A517314",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -2305,16 +2305,16 @@
     },
     {
         "Animal_ID": "A509728",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Black / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517020",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unaltered",
         "Animal_Breed": "Domestic Shorthair",
@@ -2328,7 +2328,7 @@
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair",
         "Animal_Color": "Brn Tabby / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517146",
@@ -2364,11 +2364,11 @@
         "Animal_Gender": "Male",
         "Animal_Breed": "German Shepherd",
         "Animal_Color": "Unknown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517157",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Yorkshire Terrier",
@@ -2395,7 +2395,7 @@
     },
     {
         "Animal_ID": "A517028",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "American Shorthair",
@@ -2440,7 +2440,7 @@
     },
     {
         "Animal_ID": "A517161",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Male",
         "Animal_Breed": "Maine Coon",
@@ -2449,25 +2449,25 @@
     },
     {
         "Animal_ID": "A517287",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Labrador Retriever",
         "Animal_Color": "Brown / Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A517079",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Male",
         "Animal_Breed": "Pit Bull",
         "Animal_Color": "Brown / White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740325",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -2476,7 +2476,7 @@
     },
     {
         "Animal_ID": "A740324",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -2485,7 +2485,7 @@
     },
     {
         "Animal_ID": "A740331",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -2494,7 +2494,7 @@
     },
     {
         "Animal_ID": "A740328",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair",
@@ -2503,7 +2503,7 @@
     },
     {
         "Animal_ID": "A740343",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2512,7 +2512,7 @@
     },
     {
         "Animal_ID": "A740342",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -2521,7 +2521,7 @@
     },
     {
         "Animal_ID": "A735648",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Pit Bull Mix",
@@ -2530,7 +2530,7 @@
     },
     {
         "Animal_ID": "A740350",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -2539,7 +2539,7 @@
     },
     {
         "Animal_ID": "A736577",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Jack Russell Terrier Mix",
@@ -2548,7 +2548,7 @@
     },
     {
         "Animal_ID": "A740352",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unknown",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -2557,7 +2557,7 @@
     },
     {
         "Animal_ID": "A740370",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Shih Tzu Mix",
@@ -2566,7 +2566,7 @@
     },
     {
         "Animal_ID": "A740379",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -2575,7 +2575,7 @@
     },
     {
         "Animal_ID": "A740374",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2584,7 +2584,7 @@
     },
     {
         "Animal_ID": "A740381",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -2593,7 +2593,7 @@
     },
     {
         "Animal_ID": "A740389",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -2602,7 +2602,7 @@
     },
     {
         "Animal_ID": "A740394",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair/Labrador Retriever",
@@ -2611,7 +2611,7 @@
     },
     {
         "Animal_ID": "A740391",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -2620,7 +2620,7 @@
     },
     {
         "Animal_ID": "A740392",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2629,7 +2629,7 @@
     },
     {
         "Animal_ID": "A740393",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2638,7 +2638,7 @@
     },
     {
         "Animal_ID": "A740396",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Black Mouth Cur Mix",
@@ -2647,7 +2647,7 @@
     },
     {
         "Animal_ID": "A740399",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "German Shepherd Mix",
@@ -2656,7 +2656,7 @@
     },
     {
         "Animal_ID": "A705625",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -2665,7 +2665,7 @@
     },
     {
         "Animal_ID": "A740416",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2674,7 +2674,7 @@
     },
     {
         "Animal_ID": "A740411",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Longhair Mix",
@@ -2683,7 +2683,7 @@
     },
     {
         "Animal_ID": "A740425",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Unknown",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2692,7 +2692,7 @@
     },
     {
         "Animal_ID": "A740440",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -2701,7 +2701,7 @@
     },
     {
         "Animal_ID": "A740435",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Yorkshire Terrier Mix",
@@ -2710,7 +2710,7 @@
     },
     {
         "Animal_ID": "A740445",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2719,7 +2719,7 @@
     },
     {
         "Animal_ID": "A740438",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -2728,16 +2728,16 @@
     },
     {
         "Animal_ID": "A740449",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unknown",
         "Animal_Breed": "Domestic Shorthair Mix",
         "Animal_Color": "Brown Tabby/White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740451",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -2746,7 +2746,7 @@
     },
     {
         "Animal_ID": "A740382",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -2755,7 +2755,7 @@
     },
     {
         "Animal_ID": "A669469",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2764,7 +2764,7 @@
     },
     {
         "Animal_ID": "A740456",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -2773,7 +2773,7 @@
     },
     {
         "Animal_ID": "A740384",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -2782,16 +2782,16 @@
     },
     {
         "Animal_ID": "A740448",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
         "Animal_Color": "Cream Tabby",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740471",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -2800,7 +2800,7 @@
     },
     {
         "Animal_ID": "A740481",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Toy Poodle Mix",
@@ -2809,7 +2809,7 @@
     },
     {
         "Animal_ID": "A740478",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Norwich Terrier Mix",
@@ -2818,7 +2818,7 @@
     },
     {
         "Animal_ID": "A740453",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Golden Retriever Mix",
@@ -2827,7 +2827,7 @@
     },
     {
         "Animal_ID": "A740454",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -2836,7 +2836,7 @@
     },
     {
         "Animal_ID": "A740407",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -2845,7 +2845,7 @@
     },
     {
         "Animal_ID": "A740470",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Norfolk Terrier Mix",
@@ -2854,7 +2854,7 @@
     },
     {
         "Animal_ID": "A740484",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -2863,7 +2863,7 @@
     },
     {
         "Animal_ID": "A740485",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Beagle Mix",
@@ -2872,7 +2872,7 @@
     },
     {
         "Animal_ID": "A740386",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog",
@@ -2881,7 +2881,7 @@
     },
     {
         "Animal_ID": "A740385",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -2890,7 +2890,7 @@
     },
     {
         "Animal_ID": "A740426",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Border Collie Mix",
@@ -2899,7 +2899,7 @@
     },
     {
         "Animal_ID": "A740437",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Chihuahua Longhair/Pomeranian",
@@ -2908,7 +2908,7 @@
     },
     {
         "Animal_ID": "A740508",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Rottweiler Mix",
@@ -2917,7 +2917,7 @@
     },
     {
         "Animal_ID": "A740487",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Yorkshire Terrier Mix",
@@ -2926,7 +2926,7 @@
     },
     {
         "Animal_ID": "A740405",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -2935,7 +2935,7 @@
     },
     {
         "Animal_ID": "A740455",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Havanese Mix",
@@ -2944,16 +2944,16 @@
     },
     {
         "Animal_ID": "A740387",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Australian Cattle Dog",
         "Animal_Color": "White/Brown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740529",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Alaskan Husky Mix",
@@ -2962,7 +2962,7 @@
     },
     {
         "Animal_ID": "A740510",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Dachshund Mix",
@@ -2971,7 +2971,7 @@
     },
     {
         "Animal_ID": "A740388",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Australian Cattle Dog",
@@ -2980,7 +2980,7 @@
     },
     {
         "Animal_ID": "A740512",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -2989,7 +2989,7 @@
     },
     {
         "Animal_ID": "A740514",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Norfolk Terrier Mix",
@@ -2998,7 +2998,7 @@
     },
     {
         "Animal_ID": "A740507",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Miniature Schnauzer Mix",
@@ -3007,7 +3007,7 @@
     },
     {
         "Animal_ID": "A740515",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Dachshund/Chihuahua Shorthair",
@@ -3016,7 +3016,7 @@
     },
     {
         "Animal_ID": "A740516",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -3025,7 +3025,7 @@
     },
     {
         "Animal_ID": "A439728",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Pit Bull",
@@ -3034,7 +3034,7 @@
     },
     {
         "Animal_ID": "A740523",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Pit Bull Mix",
@@ -3043,7 +3043,7 @@
     },
     {
         "Animal_ID": "A740504",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3052,7 +3052,7 @@
     },
     {
         "Animal_ID": "A740503",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3061,7 +3061,7 @@
     },
     {
         "Animal_ID": "A453102",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Border Collie/Labrador Retriever",
@@ -3070,7 +3070,7 @@
     },
     {
         "Animal_ID": "A740517",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -3079,7 +3079,7 @@
     },
     {
         "Animal_ID": "A740502",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3088,7 +3088,7 @@
     },
     {
         "Animal_ID": "A673318",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Pit Bull Mix",
@@ -3097,7 +3097,7 @@
     },
     {
         "Animal_ID": "A740441",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Boxer",
@@ -3106,25 +3106,25 @@
     },
     {
         "Animal_ID": "A740538",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Labrador Retriever Mix",
         "Animal_Color": "Yellow",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740545",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
         "Animal_Color": "Blue",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740544",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -3133,7 +3133,7 @@
     },
     {
         "Animal_ID": "A740547",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Dachshund/Rat Terrier",
@@ -3142,7 +3142,7 @@
     },
     {
         "Animal_ID": "A740588",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -3151,7 +3151,7 @@
     },
     {
         "Animal_ID": "A740589",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -3160,7 +3160,7 @@
     },
     {
         "Animal_ID": "A740452",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -3169,7 +3169,7 @@
     },
     {
         "Animal_ID": "A740338",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Pit Bull Mix",
@@ -3178,7 +3178,7 @@
     },
     {
         "Animal_ID": "A740556",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Miniature Poodle/Cocker Spaniel",
@@ -3187,7 +3187,7 @@
     },
     {
         "Animal_ID": "A740335",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Labrador Retriever",
@@ -3196,16 +3196,16 @@
     },
     {
         "Animal_ID": "A740334",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Pit Bull Mix",
         "Animal_Color": "Brown Brindle",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740526",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3214,7 +3214,7 @@
     },
     {
         "Animal_ID": "A740557",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -3223,7 +3223,7 @@
     },
     {
         "Animal_ID": "A740546",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -3232,7 +3232,7 @@
     },
     {
         "Animal_ID": "A740560",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3241,7 +3241,7 @@
     },
     {
         "Animal_ID": "A740561",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unknown",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3250,7 +3250,7 @@
     },
     {
         "Animal_ID": "A740565",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Longhair Mix",
@@ -3259,16 +3259,16 @@
     },
     {
         "Animal_ID": "A740568",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
         "Animal_Color": "White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740567",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "German Shepherd Mix",
@@ -3277,7 +3277,7 @@
     },
     {
         "Animal_ID": "A740572",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair/Miniature Pinscher",
@@ -3286,7 +3286,7 @@
     },
     {
         "Animal_ID": "A740564",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Shih Tzu Mix",
@@ -3295,7 +3295,7 @@
     },
     {
         "Animal_ID": "A740571",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -3304,7 +3304,7 @@
     },
     {
         "Animal_ID": "A740581",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unknown",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3313,7 +3313,7 @@
     },
     {
         "Animal_ID": "A740582",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Unknown",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3322,7 +3322,7 @@
     },
     {
         "Animal_ID": "A740584",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Pit Bull Mix",
@@ -3331,16 +3331,16 @@
     },
     {
         "Animal_ID": "A740596",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "American Shorthair Mix",
         "Animal_Color": "Brown Tabby",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A607606",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3349,7 +3349,7 @@
     },
     {
         "Animal_ID": "A740562",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3358,16 +3358,16 @@
     },
     {
         "Animal_ID": "A740595",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Labrador Retriever Mix",
         "Animal_Color": "Tan/Brown",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740580",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3376,7 +3376,7 @@
     },
     {
         "Animal_ID": "A740597",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Alaskan Husky Mix",
@@ -3385,7 +3385,7 @@
     },
     {
         "Animal_ID": "A662148",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -3394,7 +3394,7 @@
     },
     {
         "Animal_ID": "A740462",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3403,25 +3403,25 @@
     },
     {
         "Animal_ID": "A740463",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
         "Animal_Color": "Blue Tabby/White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740461",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
         "Animal_Color": "Torbie/White",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740464",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3430,7 +3430,7 @@
     },
     {
         "Animal_ID": "A740447",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Beagle Mix",
@@ -3439,7 +3439,7 @@
     },
     {
         "Animal_ID": "A740486",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -3448,7 +3448,7 @@
     },
     {
         "Animal_ID": "A740587",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -3457,7 +3457,7 @@
     },
     {
         "Animal_ID": "A740590",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -3466,7 +3466,7 @@
     },
     {
         "Animal_ID": "A740585",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -3475,34 +3475,34 @@
     },
     {
         "Animal_ID": "A740592",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
         "Animal_Color": "Tan",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740591",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Chihuahua Shorthair Mix",
         "Animal_Color": "Tan",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740593",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Chihuahua Shorthair Mix",
         "Animal_Color": "Black",
-        "Address": ""
+        "Address": "Unknown"
     },
     {
         "Animal_ID": "A740377",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "American Staffordshire Terrier Mix",
@@ -3511,7 +3511,7 @@
     },
     {
         "Animal_ID": "A739978",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Chihuahua Shorthair Mix",
@@ -3520,7 +3520,7 @@
     },
     {
         "Animal_ID": "A740361",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Pit Bull/Boxer",
@@ -3529,7 +3529,7 @@
     },
     {
         "Animal_ID": "A740327",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3538,7 +3538,7 @@
     },
     {
         "Animal_ID": "A740412",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Basset Hound/Irish Wolfhound",
@@ -3547,7 +3547,7 @@
     },
     {
         "Animal_ID": "A740611",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "American Pit Bull Terrier",
@@ -3556,7 +3556,7 @@
     },
     {
         "Animal_ID": "A740573",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull",
@@ -3565,7 +3565,7 @@
     },
     {
         "Animal_ID": "A740465",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3574,7 +3574,7 @@
     },
     {
         "Animal_ID": "A707120",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Miniature Poodle Mix",
@@ -3583,7 +3583,7 @@
     },
     {
         "Animal_ID": "A740615",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3592,7 +3592,7 @@
     },
     {
         "Animal_ID": "A740628",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3601,7 +3601,7 @@
     },
     {
         "Animal_ID": "A740614",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3610,7 +3610,7 @@
     },
     {
         "Animal_ID": "A729633",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3619,7 +3619,7 @@
     },
     {
         "Animal_ID": "A740622",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Australian Cattle Dog Mix",
@@ -3628,7 +3628,7 @@
     },
     {
         "Animal_ID": "A740537",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Manx Mix",
@@ -3637,7 +3637,7 @@
     },
     {
         "Animal_ID": "A738391",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Great Pyrenees/Plott Hound",
@@ -3646,7 +3646,7 @@
     },
     {
         "Animal_ID": "A740621",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Domestic Shorthair Mix",
@@ -3655,7 +3655,7 @@
     },
     {
         "Animal_ID": "A740617",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Cat",
         "Animal_Gender": "Intact Female",
         "Animal_Breed": "Domestic Longhair Mix",
@@ -3664,7 +3664,7 @@
     },
     {
         "Animal_ID": "A740627",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Neutered Male",
         "Animal_Breed": "Rat Terrier Mix",
@@ -3673,7 +3673,7 @@
     },
     {
         "Animal_ID": "A740620",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Pit Bull Mix",
@@ -3682,7 +3682,7 @@
     },
     {
         "Animal_ID": "A740630",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Labrador Retriever Mix",
@@ -3691,7 +3691,7 @@
     },
     {
         "Animal_ID": "A740558",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Intact Male",
         "Animal_Breed": "Dachshund Mix",
@@ -3700,11 +3700,11 @@
     },
     {
         "Animal_ID": "A740629",
-        "Animal_Name": "",
+        "Animal_Name": "Unknown",
         "animal_type": "Dog",
         "Animal_Gender": "Spayed Female",
         "Animal_Breed": "Australian Shepherd Mix",
         "Animal_Color": "Black/White",
-        "Address": ""
+        "Address": "Unknown"
     }
 ]

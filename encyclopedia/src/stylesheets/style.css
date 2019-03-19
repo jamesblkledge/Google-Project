@@ -18,8 +18,13 @@
     src: url(./../fonts/uni-sans.otf);
 }
 
+@font-face {
+    font-family: Roboto-Thin;
+    src: url(./../fonts/roboto-thin.ttf);
+}
+
 body {
-    background-color: #628DBD;
+    background-color: #7ECEE4;
     color: #fff;
 }
 
@@ -33,7 +38,7 @@ body {
 }
 
 .ui-widget {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .top {
@@ -45,24 +50,126 @@ fieldset {
     border: 0;
 }
 
-table {
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
-}
-
-table tr th {
+#searchTerm {
+    width: 50%;
+    border: 2px solid #8ED4E7;
+    height: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
     font-family: Uni-Sans;
     text-transform: uppercase;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+#search {
+    content: none;
+    visibility: hidden;
+}
+
+#checkTab {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    table-layout: fixed;
+    padding-bottom: 10px;
+}
+
+#checkTab tr td {
+    width: 200px;
+}
+
+td th {
+    text-align: center;
+}
+
+#checkTab th {
+    font-family: Uni-Sans;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 28px;
+    color: #5E5E5E;
+    padding-bottom: 20px;
+}
+
+#select select {
+    width: 180px;
+    border: 2px solid #8ED4E7;
+    background-color: #fff;
+    font-family: Roboto-Thin;
+    font-size: 16px;
+}
+
+#checkButton {
+    background-color: #7ECEE4;
+    border: 2px solid #fff;
+    font-family: Uni-Sans;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+#checkButton label span {
+    text-align: center;
+    padding: 10px;
+    display: block;
+    cursor: pointer;
+}
+
+#checkButton label input {
+    position: absolute;
+    display: none;
+}
+
+#checkButton label input:checked + span {
+    background-color: #3F6772;
+}
+
+#all {
+    margin: 10px 0 10px 0;
+    width: 8%;
+    margin-left: 46%;
+    margin-right: 46%;
+    background-color: #7ECEE4;
+    border: 2px solid #fff;
+    font-family: Uni-Sans;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 20px;
+    padding: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: ease-out 0.2s;
+}
+
+#all:hover {
+    background-color: #3F6772;
+    transition: ease-in 0.2s;
+}
+
+#record {
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    table-layout: fixed;
+}
+
+#record th {
+    font-family: Uni-Sans;
+    text-transform: uppercase;
+    font-weight: 800;
     font-size: 26px;
     text-align: center;
     padding: 0 10px 40px 10px;
+    color: #fff;
 }
 
-table tr td {
-    font-family: Simplifica;
-    font-size: 22px;
+#record td {
+    font-family: Roboto-Thin;
+    font-size: 18px;
     text-align: center;
-    padding-bottom: 12px;
-    letter-spacing: 1.2px;
+    padding-bottom: 40px;
+    /* letter-spacing: 1.2px; */
+    color: #fff;
 }

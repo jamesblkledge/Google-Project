@@ -12,29 +12,54 @@
         
         <section class="top">
             <div class="ui-widget">
-                <input type="text" id="searchTerm" onkeypress="if (event.keyCode == 13) { document.getElementById('search').click() }" placeholder="Search..."/>
+                <input type="text" id="searchTerm" onkeypress="if (event.keyCode == 13) { document.getElementById('search').click() }" placeholder="Search Animal Name"/>
                 <button id="search">Search</button>
             </div>
             
-            <fieldset>
-                <input type="checkbox" id="dog" value="dog"><label for="dog">Dog</label>
-                <input type="checkbox" id="cat" value="cat"><label for="cat">Cat</label>
-            </fieldset>
+            <table id="checkTab">
+                <thead>
+                    <tr>
+                        <th>Breed</th>
+                        <th></th>
+                        <th>Type</th>
+                        <th></th>
+                        <th>Gender</th>
+                        <th></th>
+                        <th>Colour</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td id="select" rowspan="8"><select id="breed" name="breed"></select></td>
+                        <td></td>
+                        <td id="checkButton">
+                            <label><input type="checkbox" id="dog" value="dog"><span>Dog</span></label>
+                        </td>
+                        <td></td>
+                        <td id="checkButton">
+                            <label><input type="checkbox" id="male" value="male"><span>Male</span></label>
+                        </td>
+                        <td></td>
+                        <td id="select" rowspan="8"><select id="color" name="color"></select></td>
+                    </tr>
+                    <tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+                    <tr>
+                        <td></td>
+                        <td id="checkButton">
+                            <label><input type="checkbox" id="cat" value="cat"><span>Cat</span></label>
+                        </td>
+                        <td></td>
+                        <td id="checkButton">
+                            <label><input type="checkbox" id="female" value="female"><span>Female</span></label>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
 
-            <fieldset>
-                <input type="checkbox" id="male" value="male"><label for="male">Male</label>
-                <input type="checkbox" id="female" value="female"><label for="female">Female</label>
-            </fieldset>
+            <hr/><button id="all">Show All</button><hr/>
 
-            <fieldset>
-                <select id="breed" name="breed"></select>
-            </fieldset>
-
-            <fieldset>
-                <select id="color" name="color"></select>
-            </fieldset>
         </section>
-
+        
         <table id="record"></table>
 
         <script>

@@ -23,16 +23,19 @@ let animalFilter = (filterList) => {
 
 let updateDOM = (data) => {
     let listElement = `
-        <tr>
-            <th>Animal ID</th>
-            <th>Animal Name</th>
-            <th>Animal Type</th>
-            <th>Animal Gender</th>
-            <th>Animal Breed</th>
-            <th>Animal Color</th>
-            <th>Address</th>
-        </tr>
-        <tr>
+        <thead>
+            <tr>
+                <th>Animal ID</th>
+                <th>Animal Name</th>
+                <th>Animal Type</th>
+                <th>Animal Gender</th>
+                <th>Animal Breed</th>
+                <th>Animal Color</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
     `;
 
     data.forEach((record) => {
@@ -45,13 +48,13 @@ let updateDOM = (data) => {
         listElement += '</tr>';
     });
 
-    document.getElementById('record').innerHTML = listElement;
+    document.getElementById('record').innerHTML = listElement + '</tbody>';
 }
 
-let allCheckbox = document.querySelectorAll('input[type=checkbox]');
+let allCheckbox = ['dog', 'cat', 'male', 'female'];
 
 for (let i = 0; i < allCheckbox.length; i++) {
-    let itemCheck = document.getElementById(allCheckbox[i].id);
+    let itemCheck = document.getElementById(allCheckbox[i]);
     let objSelectorCheck = i < 2 ? 'animal_type' : 'Animal_Gender';
 
     let listCheck = filters[objSelectorCheck];
@@ -78,21 +81,51 @@ for (let j = 0; j < allSelect.length; j++) {
     });
 }
 
+//show all button event listener, act on click
+document.getElementById('all').addEventListener('click', () => {
+    //get all checkbox elements in DOM
+    let allCheck = document.querySelectorAll('input[type=checkbox]');
+    //get all select elements in DOM
+    let allSelec = document.querySelectorAll('select');
 
-$('#searchTerm').autocomplete({
-    source: ['Cat', 'Dog', 'Dead Cat', 'Dead Dog']
+    //for each key in filters, empty the array
+    for (let reset in filters) filters[reset].length = 0;
+
+    for (let x = 0; x < allCheck.length; x++) {
+        //get current checkbox element by id
+        let valCheck = document.getElementById(allCheck[x].id);
+        //if the checkbox is checked, uncheck it
+        if (valCheck.checked) valCheck.checked = false;
+    }
+
+    for (let y = 0; y < allSelec.length; y++) {
+        //get current select element by id
+        let valSelec = document.getElementById(allSelec[y].id);
+        //if the select box has a value, remove it
+        if (valSelec.value !== '') valSelec.value = valSelec[0];
+    }
+
+    //clear the search box
+    document.getElementById('searchTerm').value = '';
+
+    //render the DOM with the original JSON file
+    updateDOM(jsonFile)
 });
 
 //when the search button is clicked...
 document.getElementById('search').addEventListener('click', () => {
     //filter items by animal type
-    let filtered = jsonFile.filter((animal) => {
-        let val = document.getElementById('searchTerm').value.toLowerCase();
+    let val = document.getElementById('searchTerm').value.toLowerCase().split(' ');
 
-        return val ? animal.animal_type.toLowerCase() === val : false;
-    });
+    if (val[0] !== '') {
+        let filtered = jsonFile.filter((animal) => {
+            let searchRef =  Object.values(animal).map(a => a.toLowerCase());
 
-    updateDOM(filtered);
+            return val ? val.every(b => Object.values(searchRef).includes(b)) : false;
+        });
+
+        updateDOM(filtered);
+    }
 });
 
 let optSelect = (option, key) => {
@@ -118,5 +151,14 @@ let optSelect = (option, key) => {
 optSelect(document.getElementById('breed'), 'Animal_Breed');
 //adding animal colors to DOM
 optSelect(document.getElementById('color'), 'Animal_Color');
-
+//render initial table
 updateDOM(jsonFile);
+
+//autocomplete stuff
+let c = new Array();
+jsonFile.forEach(d => { if (!(c.includes(d.Animal_Name) || d.Animal_Name === 'Unknown')) c.push(d.Animal_Name) });
+
+$('#searchTerm').autocomplete({
+    minLength: 1,
+    source: c
+});
