@@ -107,7 +107,6 @@ document.getElementById('all').addEventListener('click', () => {
 
     //clear the search box
     document.getElementById('searchTerm').value = '';
-
     //render the DOM with the original JSON file
     updateDOM(jsonFile)
 });
@@ -120,6 +119,11 @@ document.getElementById('search').addEventListener('click', () => {
     if (val[0] !== '') {
         let filtered = jsonFile.filter((animal) => {
             let searchRef =  Object.values(animal).map(a => a.toLowerCase());
+
+            for (let u = 0; u < searchRef.length; u++) {
+                let v = searchRef[u].split(' ')
+                if (v.length > 1) v.forEach(w => searchRef.push(w));
+            }
 
             return val ? val.every(b => Object.values(searchRef).includes(b)) : false;
         });
@@ -159,6 +163,6 @@ let c = new Array();
 jsonFile.forEach(d => { if (!(c.includes(d.Animal_Name) || d.Animal_Name === 'Unknown')) c.push(d.Animal_Name) });
 
 $('#searchTerm').autocomplete({
-    minLength: 1,
+    minLength: 2,
     source: c
 });

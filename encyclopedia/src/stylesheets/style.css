@@ -1,7 +1,11 @@
-/* * {
+* {
     margin: 0px;
     padding: 0px;
-} */
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
 
 @font-face {
     font-family: Break-Bold;
@@ -24,8 +28,9 @@
 }
 
 body {
-    background-color: #7ECEE4;
+    background-color: #333FFF;
     color: #fff;
+    overflow-x: hidden;
 }
 
 .title {
@@ -37,12 +42,7 @@ body {
     padding: 20px 0 20px 0;
 }
 
-.ui-widget {
-    padding-bottom: 10px;
-}
-
 .top {
-    /* text-align: center; */
     margin-bottom: 20px;
 }
 
@@ -50,9 +50,16 @@ fieldset {
     border: 0;
 }
 
+.ui-widget {
+    padding-bottom: 10px;
+    font-family: Roboto-Thin;
+    font-size: 16px;
+    text-align-last: center;
+}
+
 #searchTerm {
     width: 50%;
-    border: 2px solid #8ED4E7;
+    border: 2px solid #4D57FF;
     height: 100px;
     margin-left: 25%;
     margin-right: 25%;
@@ -74,10 +81,13 @@ fieldset {
     margin-right: 20%;
     table-layout: fixed;
     padding-bottom: 10px;
+    border-collapse: separate;
+    border-spacing: 50px 20px;
 }
 
 #checkTab tr td {
     width: 200px;
+    text-align: center;
 }
 
 td th {
@@ -89,20 +99,24 @@ td th {
     text-transform: uppercase;
     font-weight: 800;
     font-size: 28px;
-    color: #5E5E5E;
+    color: #fff;
     padding-bottom: 20px;
 }
 
 #select select {
-    width: 180px;
-    border: 2px solid #8ED4E7;
+    width: inherit;
+    height: 40px;
+    border: 2px solid #4D57FF;
     background-color: #fff;
     font-family: Roboto-Thin;
-    font-size: 16px;
+    font-size: 18px;
+    color: #000;
+    text-align-last: center;
+    -webkit-appearance: none;
 }
 
 #checkButton {
-    background-color: #7ECEE4;
+    background-color: #333FFF;
     border: 2px solid #fff;
     font-family: Uni-Sans;
     text-transform: uppercase;
@@ -123,7 +137,7 @@ td th {
 }
 
 #checkButton label input:checked + span {
-    background-color: #3F6772;
+    background-color: #0D1040;
 }
 
 #all {
@@ -131,7 +145,7 @@ td th {
     width: 8%;
     margin-left: 46%;
     margin-right: 46%;
-    background-color: #7ECEE4;
+    background-color: #333FFF;
     border: 2px solid #fff;
     font-family: Uni-Sans;
     text-transform: uppercase;
@@ -144,7 +158,7 @@ td th {
 }
 
 #all:hover {
-    background-color: #3F6772;
+    background-color: #0D1040;
     transition: ease-in 0.2s;
 }
 
