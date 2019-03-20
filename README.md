@@ -31,7 +31,7 @@ $ npm install && npm start
 - JavaScript JSON Objects - [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 - JavaScript Query Selector - [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 - Array Contents Overlap - [StackOverflow](https://stackoverflow.com/questions/53606337/check-if-array-contains-all-elements-of-another-array)
-- HTML Create Element - [w3Schools](https://www.w3schools.com/jsref/met_document_createelement.asp)
+- HTML Create Element - [W3Schools](https://www.w3schools.com/jsref/met_document_createelement.asp)
 - Input Checkbox Property - [W3Schools](https://www.w3schools.com/jsref/prop_checkbox_checked.asp)
 - JavaScript Filter - [W3Schools](https://www.w3schools.com/jsref/jsref_filter.asp)
 - Select Value Property - [W3Schools](https://www.w3schools.com/jsref/prop_select_value.asp)
